@@ -1,0 +1,25 @@
+{
+  "name": "adelaide-course-notes",
+  "version": "0.0.1",
+  "description": "Export course modules to PDF",
+  "main": "adelaide.uni.js",
+  "dependencies": {
+    "puppeteer": "^10.0.0",
+    "puppeteer-core": "^10.0.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanMunyard/uni-adelaide-module-notes.git"
+  },
+  "author": "Dylan Munyard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanMunyard/uni-adelaide-module-notes/issues"
+  },
+  "homepage": "https://github.com/DylanMunyard/uni-adelaide-module-notes#readme"
+}
